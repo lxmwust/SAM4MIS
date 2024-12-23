@@ -90,7 +90,7 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 |Date|Authors|Title|Code|
 |---|---|---|---|
-|202412|T. Ward et al.|Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)](https://arxiv.org/pdf/2412.08575)|[Code](https://github.com/tbwa233/SAM-Mix)|
+|202412|T. Ward et al.|Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)] [CVPR] (https://arxiv.org/pdf/2412.08575)|[Code](https://github.com/tbwa233/SAM-Mix)|
 |202412|Y. Luo et al.|Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.08575)|[Code](https://github.com/GalacticHogrider/Med-FastSAM)|
 |202412|X. Gao et al.|RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.05605)|None|
 |202412|Y. Luo et al.|BiASAM: Bidirectional-attention guided Segment Anything Model for Very Few-shot Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/abstract/document/10787063)|[Code](https://github.com/ggllllll/BiASAM-.git)|
